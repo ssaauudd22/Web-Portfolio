@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Portfolio Website",
     summary: "This very portfolio, built with responsive design and interactivity.",
-    github: "https://github.com/yourusername/portfolio"
+    github: "https://github.com/ssaauudd22/Web-Portfolio"
   }
 ];
 
