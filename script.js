@@ -12,12 +12,12 @@ const projects = [
   {
     title: "Heap Task Manager (C++)",
     summary: "Priority-based task queue using heap logic in C++. Lightweight and CLI-driven.",
-    github: "https://github.com/yourusername/heap-task-manager"
+    github: "https://github.com/ssaauudd22/heap-up-task-manager.git"
   },
   {
     title: "Lottery Inventory System (Java)",
     summary: "Simulates inventory and ticket tracking using OOP, classes, and dynamic reports.",
-    github: "https://github.com/yourusername/lottery-system"
+    github: "https://github.com/ssaauudd22/Lottery-Inventory-System.git"
   },
   {
     title: "To-Do Web App (FLASK | Python, HTML, CSS)",
