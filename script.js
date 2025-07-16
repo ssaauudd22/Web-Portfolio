@@ -28,6 +28,11 @@ const projects = [
     title: "Portfolio Website",
     summary: "This very portfolio, built with responsive design and interactivity.",
     github: "https://github.com/ssaauudd22/Web-Portfolio"
+  },
+  {
+    title: "Power Grid Simulation",
+    summary: "A simulation that mimics real-time monitoring of power grid nodes - with anomaly detection, logging, and graphs.",
+    github: "https://github.com/ssaauudd22/powerNode.git"
   }
 ];
 
